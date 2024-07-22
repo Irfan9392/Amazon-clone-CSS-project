@@ -91,8 +91,8 @@
 }
 
 
-/* Box 3 */
-.LanguageDropDown {
+/* Box 4 */
+.languageDropDown {
     width: 60px;
     height: 33px;
     display: flex;
@@ -112,5 +112,39 @@
     color: #FFFFFF;
     border: none;
 }
+
+/* Box 5*/
+span {
+    font-size: 12px;
+    color: #FFFFFF;
+}
+
+.secondLine {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+/* Box 6 */
+.secondLine {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.nav-search:hover {
+    border: 2px solid rgb(255, 162, 0);
+}
+
+/* Box 6 */
+
+.nav-cart i {
+    font-size: 30px;
+}
+
+.nav-cart-font {
+    font-size: 14px;
+}
+
+
+
 
 
